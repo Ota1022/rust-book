@@ -1,0 +1,12 @@
+# Rust build artifacts
+target/
+
+# Cargo lock files (keep for binaries, ignore for libraries)
+# Cargo.lock
+
+# Editor & OS
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
